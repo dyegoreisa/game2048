@@ -1,0 +1,35 @@
+target/
+Servers/
+
+# Compiled classes
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# eclipse specific git ignore
+*.pydevproject
+.metadata
+bin/**
+tmp/**
+tmp/**/*
+*.tmp
+*.bak
+*.swp
+*~.nib
+.classpath
+.loadpath
+
+# External tool builders
+.externalToolBuilders/
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+
+.settings
+.project
+*.epoch
+*.log
